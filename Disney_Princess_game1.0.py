@@ -44,7 +44,7 @@ while True:
                                     Cinderella = input(
                                         "Did you lose a glass slipper?\n")
                                     if Cinderella == "yes":
-                                    print("YOU are Cinderella!")
-                                    break
+                                        print("YOU are Cinderella!")
+                                        break
                                     else:
                                         print("You are NOT a Disney Princess...")
